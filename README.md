@@ -181,7 +181,7 @@ The notebook fits:
 
 `PCA(n_components=2)`
 
-Since the dataset has 2 features, there are 2 principal components total.
+Since the dataset has 2 features, there are 2 principal components total. So the projection is happening, if dimensiones were higher, then we would have dimension reduction.
 
 The returned component directions are approximately:
 
