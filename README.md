@@ -546,7 +546,6 @@ This README refers to the following generated figures:
 - `2D-reduction.png`
 - `explained-variance.png`
 
-These can be embedded directly in the README using Markdown image syntax, as already shown above.
 
 ---
 
